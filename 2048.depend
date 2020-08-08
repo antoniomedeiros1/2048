@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1563066508 source:c:\users\acer\desktop\facul\2048\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
